@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 #### JavaScript Algorithms and Data Structures Certification (freeCodeCamp)
 
-<img src="/home/shorobor/Desktop/TarequeMahmud/assets/Freecodecamp_javascript_data_structures_and_algorithm.png" alt="JavaScript Algorithms and Data Structures Certification" width="600">
+<img src="/assets/Freecodecamp_javascript_data_structures_and_algorithm.png" alt="JavaScript Algorithms and Data Structures Certification" width="600">
 
 This is a hardworking certification I have obtained from FreeCodeCamp. I have to do `23 projects` that was in the learning path, from Algorithmic thinking to simple Game Development. Then I have to do 5 certification projects that are included:
 
