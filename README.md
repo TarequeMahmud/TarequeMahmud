@@ -5,7 +5,7 @@
 I am Tareque Mahmud, an aspiring Full Stack Web Application Developer from Bangladesh.
 
 :hearts: &emsp;I enjoy programming and help other learn to code <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+:computer: &emsp;Most used line of code `console.log("this function is working, error maybe anywhere else")` <br/>
 :e-mail: &emsp;How to reach me: tarequemahmud313@gmail.com.<br/>
 
 <!--
