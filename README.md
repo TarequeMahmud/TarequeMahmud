@@ -49,10 +49,24 @@ This is a hardworking certification I have obtained from FreeCodeCamp. I have to
 
 <img src="assets/Freecodecamp_Backend_Development_And_Api_Certificate_Tareque_Mahmud.png" alt="Backend Development Certification" width="600">
 
-I have achieved this certificate from FreeCodeCamp after a lots of hardwork. After going through a learning path, I had to complete 5 do-yourself certification projects. Projects included:
+I have achieved this certificate from FreeCodeCamp after a lots of hardwork. After going through a learning path, where I learnt **NodeJs**, **Express.js**, **MongoDB**, **Mongoose** and **Debugging** I had to complete 5 do-yourself certification projects. Projects included:
 
 1. [**Timestamp Microservice**](https://github.com/TarequeMahmud/timestamp-microservice-fcc.git): Built a microservice that returns date/time information based on user input.
 2. [**Request Header Parser Microservice**](https://github.com/TarequeMahmud/headerparser-fcc.git): Created a service that parses and returns user request header information.
 3. [**URL Shortener**](https://github.com/TarequeMahmud/url-shortener.git): Developed a system to generate shorter URLs for easier reference.
 4. [**Exercise Tracker**](https://github.com/TarequeMahmud/excercise-tracker-api.git): Implemented an application to log and track user exercises.
 5. [**File Metadata Microservice**](https://github.com/TarequeMahmud/file-metadata-microservice.git): Created a microservice that accepts a file upload and returns metadata about the file.
+
+#### Quality Assurance Certification (freeCodeCamp)
+
+<img src="assets/FreeCodeCamp_Quality_Assurance.png" alt="Quality Assurance Certification" width="600">
+
+I've achieved the Quality Assurance Certification from freeCodeCamp, adding new skills through hands-on experience with project-based learning, including **Passport.js**, **Socket.io**, **Advanced Node and Express**, and **Mocha and Chai** for testing. Here are the certification projects I completed:
+
+1. [**Metric-Imperial Converter**](https://github.com/TarequeMahmud/metric-imperial-converter.git): Developed a converter for units of measurement between the metric and imperial systems.
+2. [**Issue Tracker**](https://github.com/TarequeMahmud/issue-tracker.git): Built an issue tracker that allows users to report, modify, and track issues.
+3. [**Personal Library**](https://github.com/TarequeMahmud/personal-library.git): Created a library application to add, remove, and track books.
+4. [**Sudoku Solver**](https://github.com/TarequeMahmud/sudoku-solver.git): Implemented a logic-based solution to solve and verify Sudoku puzzles.
+5. [**American British Translator**](https://github.com/TarequeMahmud/british-american-translator.git): Developed a tool to translate between American and British English.
+
+Check out these projects to see my work in Quality Assurance and software testing practices.
