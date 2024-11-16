@@ -33,6 +33,18 @@ Here are some ideas to get you started:
 
 ### 🏆 Professional Certifications
 
+#### Responsive Web Design Certification (freeCodeCamp)
+
+<img src="assets/FreeCodeCamp_responsive_web_design.png" alt="Responsive Web Design Certification" width="600">
+
+This **Responsive Web Design Certification** involved designing and building 20 responsive web projects, including five certification projects that showcase mastery of modern HTML and CSS techniques. Here are the certification projects I completed:
+
+1. [**Tribute Page**](https://github.com/TarequeMahmud/tribute-page.git): Created a responsive webpage paying tribute to a historical figure.
+2. [**Survey Form**](https://github.com/TarequeMahmud/survey-form.git): Designed a responsive and accessible form for collecting user information.
+3. [**Product Landing Page**](https://github.com/TarequeMahmud/product-landing-page.git): Developed a responsive landing page to promote a product or service.
+4. [**Technical Documentation Page**](https://github.com/TarequeMahmud/technical-documentation-page.git): Built a responsive documentation page with clear navigation and structure.
+5. [**Personal Portfolio Webpage**](https://github.com/TarequeMahmud/personal-portfolio.git): Designed and developed a fully responsive personal portfolio showcasing projects and skills.
+
 #### JavaScript Algorithms and Data Structures Certification (freeCodeCamp)
 
 <img src="/assets/Freecodecamp_javascript_data_structures_and_algorithm.png" alt="JavaScript Algorithms and Data Structures Certification" width="600">
