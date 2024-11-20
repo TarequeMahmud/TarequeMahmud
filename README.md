@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 🚀 All My Projects
 
-#### Backend Projects and Microservices
+#### Backend APIs and Microservices
 
 | Project Name                                                                                              | Project Description                                    |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
