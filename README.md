@@ -5,7 +5,7 @@
 I am Tareque Mahmud, an aspiring Full Stack Web Application Developer from Bangladesh.
 
 :hearts: &emsp;I enjoy programming and help other learn to code <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+:computer: &emsp;Most used line of code `console.log("function working")` <br/>
 :e-mail: &emsp;How to reach me: tarequemahmud313@gmail.com.<br/>
 
 <!--
@@ -32,6 +32,21 @@ Here are some ideas to get you started:
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) <!--[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)--> [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ## 🚀 All My Projects
+
+#### Backend Projects and Microservices
+
+| Project Name                                                                                              | Project Description                                    |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [Timestamp Microservice](https://github.com/TarequeMahmud/timestamp-microservice)                         | A service to parse and return date and time.           |
+| [Request Header Parser Microservice](https://github.com/TarequeMahmud/request-header-parser-microservice) | A microservice to extract and display request headers. |
+| [URL Shortener Microservice](https://github.com/TarequeMahmud/url-shortener-microservice)                 | A service to shorten and redirect URLs.                |
+| [Exercise Tracker](https://github.com/TarequeMahmud/exercise-tracker)                                     | An app to log and track user exercises.                |
+| [File Metadata Microservice](https://github.com/TarequeMahmud/file-metadata-microservice)                 | A service to retrieve file metadata.                   |
+| [Metric-Imperial Converter](https://github.com/TarequeMahmud/metric-imperial-converter)                   | A tool to convert between metric and imperial units.   |
+| [Issue Tracker](https://github.com/TarequeMahmud/issue-tracker)                                           | A web app to log and manage issues.                    |
+| [Personal Library](https://github.com/TarequeMahmud/personal-library)                                     | A service to manage a collection of books.             |
+| [Sudoku Solver](https://github.com/TarequeMahmud/sudoku-solver)                                           | A tool to solve Sudoku puzzles programmatically.       |
+| [American British Translator](https://github.com/TarequeMahmud/british-american-translator)               | A translator for American and British English.         |
 
 #### Responsive Web Design Projects (Only HTML and CSS)
 
