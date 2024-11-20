@@ -27,13 +27,15 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tareque-mahmud-32956024a/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tarequemahmud10) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarequemahmud313@gmail.com)
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Things I code with</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Things I code with</b>
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) <!--[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)--> [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ## 🚀 All My Projects
 
-#### Backend APIs and Microservices(NodeJS, ExpressJs, MongoDB, PassportJs, Socket.io etc.)
+### Backend APIs and Microservices
+
+[NodeJS, ExpressJs, MongoDB, PassportJs, Socket.io etc.]
 
 | Project Name                                                                                              | Project Description                                    |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
@@ -48,7 +50,41 @@ Here are some ideas to get you started:
 | [Sudoku Solver](https://github.com/TarequeMahmud/sudoku-solver)                                           | A tool to solve Sudoku puzzles programmatically.       |
 | [American British Translator](https://github.com/TarequeMahmud/british-american-translator)               | A translator for American and British English.         |
 
-#### Responsive Web Design Projects (Only HTML and CSS)
+### Vanilla JavaScript Projects
+
+[JavaScript, HTML, CSS, DOM]
+
+| Project Name                    | Project Description                                            |
+| ------------------------------- | -------------------------------------------------------------- |
+| Pyramid Generator               | A pyramid generator to learn introductory JavaScript.          |
+| Gradebook App                   | A gradebook app to review JavaScript fundamentals.             |
+| Role Playing Game               | A role-playing game to practice basic JavaScript.              |
+| Random Background Color Changer | A color changer app to learn debugging.                        |
+| Calorie Counter                 | A calorie counter to practice form validation.                 |
+| Rock, Paper, Scissors Game      | A classic game to review DOM manipulation.                     |
+| Music Player                    | A music player using string and array methods.                 |
+| Palindrome Checker              | A palindrome checker to practice algorithmic thinking.         |
+| Date Formatter                  | A date formatter to explore JavaScript's Date object.          |
+| Football Team Cards             | Dynamic cards using modern JavaScript methods.                 |
+| Todo App                        | A todo app to learn localStorage management.                   |
+| Decimal to Binary Converter     | A recursion-based binary converter.                            |
+| Roman Numeral Converter         | An integer-to-Roman numeral converter.                         |
+| Spam Filter                     | A spam filter using regular expressions.                       |
+| Number Sorter                   | A sorter app for basic algorithmic thinking.                   |
+| Statistics Calculator           | A statistics calculator using advanced array methods.          |
+| Spreadsheet                     | A spreadsheet app for functional programming.                  |
+| Telephone Number Validator      | A phone number validator for US numbers.                       |
+| Shopping Cart                   | A shopping cart to practice basic object-oriented programming. |
+| Platformer Game                 | A platformer game for intermediate OOP concepts.               |
+| Dice Game                       | A dice game to review algorithmic thinking.                    |
+| Cash Register                   | A cash register web app for advanced problem solving.          |
+| fCC Authors Page                | A page demonstrating fetch and promises.                       |
+| fCC Forum Leaderboard           | A leaderboard to practice asynchronous programming.            |
+| Pokémon Search App              | A Pokémon search app using advanced JavaScript concepts.       |
+
+### Responsive Web Design Projects
+
+[HTML and CSS]
 
 | Project Name                                                                                             | Project Description                             |
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
