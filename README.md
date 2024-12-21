@@ -54,33 +54,37 @@ Here are some ideas to get you started:
 
 [JavaScript, HTML, CSS, DOM]
 
-| Project Name                    | Project Description                                            |
-| ------------------------------- | -------------------------------------------------------------- |
-| Pyramid Generator               | A pyramid generator to learn introductory JavaScript.          |
-| Gradebook App                   | A gradebook app to review JavaScript fundamentals.             |
-| Role Playing Game               | A role-playing game to practice basic JavaScript.              |
-| Random Background Color Changer | A color changer app to learn debugging.                        |
-| Calorie Counter                 | A calorie counter to practice form validation.                 |
-| Rock, Paper, Scissors Game      | A classic game to review DOM manipulation.                     |
-| Music Player                    | A music player using string and array methods.                 |
-| Palindrome Checker              | A palindrome checker to practice algorithmic thinking.         |
-| Date Formatter                  | A date formatter to explore JavaScript's Date object.          |
-| Football Team Cards             | Dynamic cards using modern JavaScript methods.                 |
-| Todo App                        | A todo app to learn localStorage management.                   |
-| Decimal to Binary Converter     | A recursion-based binary converter.                            |
-| Roman Numeral Converter         | An integer-to-Roman numeral converter.                         |
-| Spam Filter                     | A spam filter using regular expressions.                       |
-| Number Sorter                   | A sorter app for basic algorithmic thinking.                   |
-| Statistics Calculator           | A statistics calculator using advanced array methods.          |
-| Spreadsheet                     | A spreadsheet app for functional programming.                  |
-| Telephone Number Validator      | A phone number validator for US numbers.                       |
-| Shopping Cart                   | A shopping cart to practice basic object-oriented programming. |
-| Platformer Game                 | A platformer game for intermediate OOP concepts.               |
-| Dice Game                       | A dice game to review algorithmic thinking.                    |
-| Cash Register                   | A cash register web app for advanced problem solving.          |
-| fCC Authors Page                | A page demonstrating fetch and promises.                       |
-| fCC Forum Leaderboard           | A leaderboard to practice asynchronous programming.            |
-| Pokémon Search App              | A Pokémon search app using advanced JavaScript concepts.       |
+### Vanilla JavaScript Projects
+
+[JavaScript, HTML, CSS, DOM]
+
+| Project Name                    | Project Description                                                     |
+| ------------------------------- | ----------------------------------------------------------------------- |
+| Pyramid Generator               | A pyramid generator built using JavaScript and DOM manipulation.        |
+| Gradebook App                   | A gradebook app developed with JavaScript and CSS for UI.               |
+| Role Playing Game               | A role-playing game created using JavaScript for game logic.            |
+| Random Background Color Changer | A color changer app built with JavaScript and DOM updates.              |
+| Calorie Counter                 | A calorie counter implemented with JavaScript form validation.          |
+| Rock, Paper, Scissors Game      | A classic game created using JavaScript and DOM interactions.           |
+| Music Player                    | A music player developed using JavaScript string and array methods.     |
+| Palindrome Checker              | A palindrome checker implemented using JavaScript algorithms.           |
+| Date Formatter                  | A date formatter created with JavaScript's Date object.                 |
+| Football Team Cards             | Dynamic team cards built with modern JavaScript methods.                |
+| Todo App                        | A todo app utilizing JavaScript and localStorage.                       |
+| Decimal to Binary Converter     | A binary converter built using JavaScript recursion.                    |
+| Roman Numeral Converter         | A numeral converter developed with JavaScript.                          |
+| Spam Filter                     | A spam filter implemented using JavaScript regular expressions.         |
+| Number Sorter                   | A number sorter created with JavaScript sorting algorithms.             |
+| Statistics Calculator           | A statistics calculator built using advanced JavaScript array methods.  |
+| Spreadsheet                     | A spreadsheet app developed with JavaScript and functional programming. |
+| Telephone Number Validator      | A phone number validator implemented with JavaScript patterns.          |
+| Shopping Cart                   | A shopping cart built using JavaScript object-oriented programming.     |
+| Platformer Game                 | A platformer game created with JavaScript and OOP concepts.             |
+| Dice Game                       | A dice game developed using JavaScript algorithms.                      |
+| Cash Register                   | A cash register built for advanced problem-solving with JavaScript.     |
+| fCC Authors Page                | A page showcasing data fetching using JavaScript promises.              |
+| fCC Forum Leaderboard           | A leaderboard built with JavaScript and asynchronous programming.       |
+| Pokémon Search App              | A Pokémon search app created using JavaScript and APIs.                 |
 
 ### Responsive Web Design Projects
 
