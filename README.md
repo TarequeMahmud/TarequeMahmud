@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 | Project Name                                                                                              | Project Description                                    |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [Timestamp Microservice](https://github.com/TarequeMahmud/timestamp-microservice)                         | A service to parse and return date and time.           |
+| [Timestamp Microservice](https://github.com/TarequeMahmud/timestamp-microservice-fcc)                     | A service to parse and return date and time.           |
 | [Request Header Parser Microservice](https://github.com/TarequeMahmud/request-header-parser-microservice) | A microservice to extract and display request headers. |
 | [URL Shortener Microservice](https://github.com/TarequeMahmud/url-shortener-microservice)                 | A service to shorten and redirect URLs.                |
 | [Exercise Tracker](https://github.com/TarequeMahmud/exercise-tracker)                                     | An app to log and track user exercises.                |
