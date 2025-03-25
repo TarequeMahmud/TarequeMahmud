@@ -33,6 +33,15 @@ Here are some ideas to get you started:
 
 ## 🚀 All My Projects
 
+### Full Stack Projects
+
+| Project Name                                                        | Description                                                                                                                                                                                                                                  | Tech Stack                                           |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [CollabTask](https://github.com/TarequeMahmud/CollabTask.git)       | A project management platform designed to streamline team collaboration, task tracking, and productivity management.                                                                                                                         | MongoDB, Express, React, SCSS, Node.js, PassportJs   |
+| [Vox](https://github.com/TarequeMahmud/vox.git)                     | An AI-powered real-time chat application that enables interactive conversations with intelligent responses using Gemini AI.                                                                                                                  | Next.js, PostgreSQL, Tailwind, Gemini API            |
+| [MediChoice.AI](https://github.com/TarequeMahmud/medichoice.ai.git) | An AI-driven medical recommendation system that helps users find the best treatment options based on symptoms and conditions.                                                                                                                | NextJs, Tailwind, PostgreSQL, NodeJS, ExpressJS, JWT |
+| [Intellibrary](https://github.com/TarequeMahmud/Intellibrary.git)   | An AI based book review application where users can create a book profile and Commit CRUD operation. It has an Analyze With AI feature to get recommendations, get info and take suggestions from the bookshelf and choose appropriate books | React, Tailwind, Node, Express, MongoDB, Gemini API  |
+
 ### Backend APIs and Microservices
 
 [NodeJS, ExpressJs, MongoDB, PassportJs, Socket.io etc.]
@@ -49,69 +58,6 @@ Here are some ideas to get you started:
 | [Personal Library](https://github.com/TarequeMahmud/personal-library)                                     | A service to manage a collection of books.             |
 | [Sudoku Solver](https://github.com/TarequeMahmud/sudoku-solver)                                           | A tool to solve Sudoku puzzles programmatically.       |
 | [American British Translator](https://github.com/TarequeMahmud/british-american-translator)               | A translator for American and British English.         |
-
-### Vanilla JavaScript Projects
-
-[JavaScript, HTML, CSS, DOM]
-
-### Vanilla JavaScript Projects
-
-[JavaScript, HTML, CSS, DOM]
-
-| Project Name                    | Project Description                                                     |
-| ------------------------------- | ----------------------------------------------------------------------- |
-| Pyramid Generator               | A pyramid generator built using JavaScript and DOM manipulation.        |
-| Gradebook App                   | A gradebook app developed with JavaScript and CSS for UI.               |
-| Role Playing Game               | A role-playing game created using JavaScript for game logic.            |
-| Random Background Color Changer | A color changer app built with JavaScript and DOM updates.              |
-| Calorie Counter                 | A calorie counter implemented with JavaScript form validation.          |
-| Rock, Paper, Scissors Game      | A classic game created using JavaScript and DOM interactions.           |
-| Music Player                    | A music player developed using JavaScript string and array methods.     |
-| Palindrome Checker              | A palindrome checker implemented using JavaScript algorithms.           |
-| Date Formatter                  | A date formatter created with JavaScript's Date object.                 |
-| Football Team Cards             | Dynamic team cards built with modern JavaScript methods.                |
-| Todo App                        | A todo app utilizing JavaScript and localStorage.                       |
-| Decimal to Binary Converter     | A binary converter built using JavaScript recursion.                    |
-| Roman Numeral Converter         | A numeral converter developed with JavaScript.                          |
-| Spam Filter                     | A spam filter implemented using JavaScript regular expressions.         |
-| Number Sorter                   | A number sorter created with JavaScript sorting algorithms.             |
-| Statistics Calculator           | A statistics calculator built using advanced JavaScript array methods.  |
-| Spreadsheet                     | A spreadsheet app developed with JavaScript and functional programming. |
-| Telephone Number Validator      | A phone number validator implemented with JavaScript patterns.          |
-| Shopping Cart                   | A shopping cart built using JavaScript object-oriented programming.     |
-| Platformer Game                 | A platformer game created with JavaScript and OOP concepts.             |
-| Dice Game                       | A dice game developed using JavaScript algorithms.                      |
-| Cash Register                   | A cash register built for advanced problem-solving with JavaScript.     |
-| fCC Authors Page                | A page showcasing data fetching using JavaScript promises.              |
-| fCC Forum Leaderboard           | A leaderboard built with JavaScript and asynchronous programming.       |
-| Pokémon Search App              | A Pokémon search app created using JavaScript and APIs.                 |
-
-### Responsive Web Design Projects
-
-[HTML and CSS]
-
-| Project Name                                                                                             | Project Description                             |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [Cat Photo App](your-repo-link)                                                                          | A simple HTML page featuring a cat photo app.   |
-| [Cafe Menu](your-repo-link)                                                                              | A cafe menu, styled with basic CSS.             |
-| [Colored Markers](your-repo-link)                                                                        | A set of colorful markers using CSS colors.     |
-| [Registration Form](your-repo-link)                                                                      | A user registration form with HTML forms.       |
-| [Survey Form](your-repo-link)                                                                            | A survey form to collect user data.             |
-| [Rothko Painting](your-repo-link)                                                                        | A CSS box model-based Rothko painting.          |
-| [Photo Gallery](your-repo-link)                                                                          | A photo gallery created using CSS Flexbox.      |
-| [Nutrition Label](your-repo-link)                                                                        | A nutrition label designed with typography.     |
-| [Quiz](your-repo-link)                                                                                   | A quiz app showcasing accessibility features.   |
-| [Tribute Page](your-repo-link)                                                                           | A tribute page for a subject of your choice.    |
-| [Balance Sheet](https://github.com/TarequeMahmud/responsive-web-design-projects/tree/main/Balance-sheet) | A balance sheet styled with pseudo-selectors.   |
-| [Cat Painting](your-repo-link)                                                                           | A colorful cat painting using intermediate CSS. |
-| [Piano](your-repo-link)                                                                                  | A piano layout demonstrating responsive design. |
-| [Technical Documentation Page](your-repo-link)                                                           | A technical documentation page layout.          |
-| [City Skyline](your-repo-link)                                                                           | A city skyline crafted with CSS variables.      |
-| [Magazine](https://github.com/TarequeMahmud/responsive-web-design-projects/tree/main/magazine)           | A magazine layout built with CSS Grid.          |
-| [Product Landing Page](your-repo-link)                                                                   | A product landing page for showcasing items.    |
-| [Ferris Wheel](https://github.com/TarequeMahmud/responsive-web-design-projects/tree/main/ferris-wheel)   | A ferris wheel animated with CSS.               |
-| [Penguin](https://github.com/TarequeMahmud/responsive-web-design-projects/tree/main/penguin)             | A penguin, built using CSS transforms.          |
-| [Personal Portfolio](your-repo-link)                                                                     | A portfolio page to showcase your projects.     |
 
 ## 🏆 Professional Certifications
 
