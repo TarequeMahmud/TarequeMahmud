@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 [![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](#)
 
+---
+
 ## 🚀 All My Projects
 
 ### Full Stack Projects
@@ -92,28 +94,65 @@ Here are some ideas to get you started:
 | [Sudoku Solver](https://github.com/TarequeMahmud/sudoku-solver)                                           | A tool to solve Sudoku puzzles programmatically.       |
 | [American British Translator](https://github.com/TarequeMahmud/british-american-translator)               | A translator for American and British English.         |
 
+---
+
+## 📊 GitHub Activity Overview – _Tareque Mahmud_
+
+<p align="center">
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarequemahmud&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tarequemahmud&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" width="60%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats and Top Languages Side-by-Side -->
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tarequemahmud&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tarequemahmud&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarequemahmud&custom_title=Tareque%20Mahmud's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🏆 Professional Certifications
 
 #### Responsive Web Design Certification (freeCodeCamp)
 
+<p  align="center">
 <img src="assets/FreeCodeCamp_responsive_web_design.png" alt="Responsive Web Design Certification" width="600">
+</p>
 
 This **Responsive Web Design Certification** involved designing and building _20 responsive web projects_, including five certification projects that showcase mastery of modern HTML and CSS techniques.
 
 #### JavaScript Algorithms and Data Structures Certification (freeCodeCamp)
 
+<p  align="center">
 <img src="/assets/Freecodecamp_javascript_data_structures_and_algorithm.png" alt="JavaScript Algorithms and Data Structures Certification" width="600">
+</p>
 
 This is a hardworking certification I have obtained from FreeCodeCamp. I have to do `23 projects` that was in the learning path, from Algorithmic thinking to simple Game Development.
 
 #### Backend Development and APIs Certification (freeCodeCamp)
 
+<p  align="center">
 <img src="assets/Freecodecamp_Backend_Development_And_Api_Certificate_Tareque_Mahmud.png" alt="Backend Development Certification" width="600">
+</p>
 
 I have achieved this certificate from FreeCodeCamp after a lots of hardwork. After going through a learning path, where I learnt **NodeJs**, **Express.js**, **MongoDB**, **Mongoose** and **Debugging**.
 
 #### Quality Assurance Certification (freeCodeCamp)
 
+<p  align="center">
 <img src="assets/FreeCodeCamp_Quality_Assurance.png" alt="Quality Assurance Certification" width="600">
+</p>
 
 I've achieved the Quality Assurance Certification from freeCodeCamp, adding new skills through hands-on experience with project-based learning, including **Passport.js**, **Socket.io**, **Advanced Node and Express**, and **Mocha and Chai** for testing.
